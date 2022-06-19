@@ -3,6 +3,7 @@
 #include<stdlib.h>
 #include <string.h>
 
+
 void   getCalculation(void);
 float  marksToGP(float marks);
 char  *marksToG(float gp);
